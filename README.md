@@ -36,7 +36,7 @@ I wrote two methods, one to **compress** the string, and the other to **decompre
 
 ## How to use
 This app has to be run in Visual Studio. 
-Once you have all the code, you will **start the console** 
-The app will ask you the **price of the item** you're buying and **how much** money you're putting into the machine.
-When you enter an amount that is **equal to or greater than** the **price of the item**, the machine will spit out the correct change and allow you to take the item.
+Once you have all the code, you will **start the console**. <br> 
+The app will ask you the **price of the item** you're buying and **how much** money you're putting into the machine.<br>
+When you enter an amount that is **equal to or greater than** the **price of the item**, the machine will spit out the correct change and allow you to take the item.<br>
 If you do not have enough money or the vending machine runs out of change, you will be refunded and will not receive the item.
