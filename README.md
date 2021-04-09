@@ -33,3 +33,10 @@ Result = “RTF4YYUP3E3UU”<br>
 The program will replace a letter if it appeared more than 2 times continuously, the replacement is done by keeping one copy of this letter then writing down the number this letter appeared consecutively.
 
 I wrote two methods, one to **compress** the string, and the other to **decompress** the string. 
+
+## How to use
+This app has to be run in Visual Studio. 
+Once you have all the code, you will **start the console** 
+The app will ask you the **price of the item** you're buying and **how much** money you're putting into the machine.
+When you enter an amount that is **equal to or greater than** the **price of the item**, the machine will spit out the correct change and allow you to take the item.
+If you do not have enough money or the vending machine runs out of change, you will be refunded and will not receive the item.
